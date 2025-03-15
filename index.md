@@ -1,6 +1,3 @@
----
-title: Maryam Mirzakhani
----
 
 # Maryam Mirzakhani: A Mathematical Pioneer
 
