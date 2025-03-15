@@ -1,5 +1,5 @@
 
- title: Maryam Mirzakhani: A Mathematical Pioneer
+# Maryam Mirzakhani: A Mathematical Pioneer
 
 Maryam Mirzakhani (1977–2017) was an Iranian mathematician known for her groundbreaking work in the fields of geometry and dynamical systems. She made history as the first woman to win the **Fields Medal**, the most prestigious award in mathematics.
 
